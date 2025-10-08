@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#test
+
 set -euo pipefail
 
 PRESENT_WORKING_DIR="$(pwd)"
